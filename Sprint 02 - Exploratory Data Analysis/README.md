@@ -36,7 +36,7 @@ After checking for missing values and duplicates in the five tables in the Insta
 - **Insight 4:** On average users will purchase 10.1 items per order
 
 ## Examples of Visualizations Used in Project
-![alt text](https://github.com/paul-london/TripleTen-Data-Science-Projects/blob/main/Sprint%2002%20-%20Exploratory%20Data%20Analysis/Images/1.png)
-![alt text](https://github.com/paul-london/TripleTen-Data-Science-Projects/blob/main/Sprint%2002%20-%20Exploratory%20Data%20Analysis/Images/2.png)
+![](https://github.com/paul-london/TripleTen-Data-Science-Projects/blob/main/Sprint%2002%20-%20Exploratory%20Data%20Analysis/Images/1.png)
+![](https://github.com/paul-london/TripleTen-Data-Science-Projects/blob/main/Sprint%2002%20-%20Exploratory%20Data%20Analysis/Images/2.png)
 
 

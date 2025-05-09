@@ -41,4 +41,4 @@ If you're interested in running this project locally on your own machine, please
 Thank you for taking the time to view my project. I hope you found my web application engaging and my instructions and project overview to be clear and helpful!
 
 ## Examples of Visualizations Used in Project
-![alt text](https://github.com/brandon-levan/TripleTen-Data-Science-Projects/blob/main/Sprint%2004%20-%20Software%20Development%20Tools%20(Streamlit)/Assets/image.png)
+![](https://github.com/paul-london/TripleTen-Data-Science-Projects/blob/main/Sprint%2004%20-%20Software%20Development%20Tools%20(Streamlit)/Images/1.png)

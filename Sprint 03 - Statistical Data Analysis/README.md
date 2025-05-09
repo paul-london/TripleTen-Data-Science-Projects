@@ -1,4 +1,4 @@
-# [Sprint 3 - Statistical Data Analysis](https://github.com/brandon-levan/TripleTen-Data-Science-Projects/blob/main/Sprint%2003%20-%20Statistical%20Data%20Analysis/Sprint_3_Project.ipynb)
+# [Sprint 3 - Statistical Data Analysis](https://github.com/paul-london/TripleTen-Data-Science-Projects/blob/main/Sprint%2003%20-%20Statistical%20Data%20Analysis/Sprint%203%20Project%20-%20Statistical%20Data%20Analysis.ipynb)
 
 ## Skills Learned in Sprint 
 - Learn to choose the optimal metrics for data description

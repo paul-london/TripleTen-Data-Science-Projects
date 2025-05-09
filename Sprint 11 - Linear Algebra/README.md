@@ -1,5 +1,4 @@
-# [Sprint 11 - Linear Algebra Learning in Business](https://github.com/brandon-levan/TripleTen-Data-Science-Projects/blob/main/Sprint%2011%20-%20Linear%20Algebra/Sprint_11_Project.ipynb)
-
+# [Sprint 11 - Linear Algebra Learning in Business](https://github.com/paul-london/TripleTen-Data-Science-Projects/blob/main/Sprint%2011%20-%20Linear%20Algebra/Sprint%2011%20Project%20-%20Linear%20Algebra.ipynb)
 ## Skills Learned in Sprint 
 - Perform common matrix and vector operations using the NumPy library
 - Create Python classes for machine learning models

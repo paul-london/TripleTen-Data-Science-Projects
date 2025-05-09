@@ -1,4 +1,4 @@
-# [Sprint 9 - Machine Learning in Business](https://github.com/brandon-levan/TripleTen-Data-Science-Projects/blob/main/Sprint%2009%20-%20Machine%20Learning%20in%20Business/Sprint_9_Project.ipynb)
+# [Sprint 9 - Machine Learning in Business](https://github.com/paul-london/TripleTen-Data-Science-Projects/tree/main/Sprint%2009%20-%20Machine%20Learning%20in%20Business)
 
 ## Skills Learned in Sprint 
 - Learn business metrics and how they relate to ML metrics.

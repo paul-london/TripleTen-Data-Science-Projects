@@ -1,4 +1,4 @@
-# [Sprint 17 - Final Project](https://github.com/brandon-levan/TripleTen-Data-Science-Projects/blob/main/Sprint%2017%20-%20Final%20Project/Sprint_17_Project.ipynb)
+# [Sprint 17 - Final Project](https://github.com/paul-london/TripleTen-Data-Science-Projects/blob/main/Sprint%2017%20-%20Final%20Project/Sprint%2017%20Project%20-%20Final%20Project.ipynb)
 
 ## Problem Statement & Task
 **The telecom operator Interconnect would like to be able to forecast their churn of clients.** If it's discovered that a user is planning to leave, they will be offered promotional codes and special plan options. Interconnect's marketing team has collected some of their clientele's personal data, including information about their plans and contracts.

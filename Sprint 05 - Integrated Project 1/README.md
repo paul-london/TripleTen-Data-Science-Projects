@@ -1,4 +1,4 @@
-# [Sprint 5 - Integrated Project 1](https://github.com/brandon-levan/TripleTen-Data-Science-Projects/blob/main/Sprint%2005%20-%20Integrated%20Project%201/Sprint_5_Project.ipynb)
+# [Sprint 5 - Integrated Project 1](https://github.com/paul-london/TripleTen-Data-Science-Projects/blob/main/Sprint%2005%20-%20Integrated%20Project%201/Sprint%205%20Project%20-%20Integrated%20Project%201.ipynb)
 
 ## Skills Used in This Project (Learned in Previous Sprints)
 - Perform four essential data-focused activities: retrieval, preprocessing, analysis, and presenting results

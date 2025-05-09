@@ -1,4 +1,4 @@
-# [Sprint 6 - Data Collection and Storage (SQL)](https://github.com/brandon-levan/TripleTen-Data-Science-Projects/blob/main/Sprint%2006%20-%20Data%20Collection%20and%20Storage%20(SQL)/Sprint_6_Project.ipynb)
+# [Sprint 6 - Data Collection and Storage (SQL)](https://github.com/paul-london/TripleTen-Data-Science-Projects/blob/main/Sprint%2006%20-%20Data%20Collection%20and%20Storage%20(SQL)/Sprint%206%20Project%20-%20Data%20Collection%20and%20Storage%20(SQL).ipynb)
 
 ## Skills Learned in Sprint 
 - How to write SQL queries of varying degrees of complexity

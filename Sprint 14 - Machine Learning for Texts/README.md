@@ -49,6 +49,6 @@ The Film Junky Union, a new edgy community for classic movie enthusiasts, is dev
 
 
 ## Examples of Visualizations Used in Project
-![alt text](https://github.com/brandon-levan/TripleTen-Data-Science-Projects/blob/main/Sprint%2014%20-%20ML%20for%20Texts/Assets/movies_over_years.png)
-![alt text](https://github.com/brandon-levan/TripleTen-Data-Science-Projects/blob/main/Sprint%2014%20-%20ML%20for%20Texts/Assets/distribution_of_ratings.png)
-![alt text](https://github.com/brandon-levan/TripleTen-Data-Science-Projects/blob/main/Sprint%2014%20-%20ML%20for%20Texts/Assets/scores.png)
+![](https://github.com/paul-london/TripleTen-Data-Science-Projects/blob/main/Sprint%2014%20-%20Machine%20Learning%20for%20Texts/Images/1.png)
+![](https://github.com/paul-london/TripleTen-Data-Science-Projects/blob/main/Sprint%2014%20-%20Machine%20Learning%20for%20Texts/Images/2.png)
+![](https://github.com/paul-london/TripleTen-Data-Science-Projects/blob/main/Sprint%2014%20-%20Machine%20Learning%20for%20Texts/Images/3.png)

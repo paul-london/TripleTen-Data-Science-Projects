@@ -1,4 +1,4 @@
-# [Sprint 8 - Supervised Learning](https://github.com/brandon-levan/TripleTen-Data-Science-Projects/blob/main/Sprint%2008%20-%20Surpervised%20Learning/Sprint_8_Project.ipynb)
+# [Sprint 8 - Supervised Learning](https://github.com/paul-london/TripleTen-Data-Science-Projects/blob/main/Sprint%2008%20-%20Supervised%20Learning/Sprint%208%20Project%20-%20Supervised%20Learning.ipynb)
 
 ## Skills Learned in Sprint 
 - Learn up new evaluation metrics for classification: precision, recall, F1 score, and AUC-ROC. Calculate their values using the scikit-learn tools.

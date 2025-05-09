@@ -34,5 +34,5 @@ Recall that the supermarket chain Good Seed would like to explore whether Data S
 To complete this project, I used a ResNet50 neural network to predict a person's age by using facial images and evaluated model performance through the use of a mean average error (MAE) loss function. The requirement for this project was that the MAE score not be higher than 8, and I found my model to have a MAE of 7.65. While the model meets the acceptance criteria, the best indicator of where a person is of age to purchase alcohol would be there drivers license. Checking a drivers license would produce much better results than implementing a model that may or may not accurately predict a user's age each time which may have unitended consequences for Good Seed.
 
 ## Examples of Visualizations Used in Project
-![alt text](https://github.com/brandon-levan/TripleTen-Data-Science-Projects/blob/main/Sprint%2015%20-%20Computer%20Vision/Assets/age_distro.png)
-![alt text](https://github.com/brandon-levan/TripleTen-Data-Science-Projects/blob/main/Sprint%2015%20-%20Computer%20Vision/Assets/images_of_peoples.png)
+![](https://github.com/paul-london/TripleTen-Data-Science-Projects/blob/main/Sprint%2015%20-%20Computer%20Vision/Images/1.png)
+![](https://github.com/paul-london/TripleTen-Data-Science-Projects/blob/main/Sprint%2015%20-%20Computer%20Vision/Images/2.png)

@@ -1,4 +1,4 @@
-# [Sprint 7 - Introduction to ML](https://github.com/brandon-levan/TripleTen-Data-Science-Projects/blob/main/Sprint%2007%20-%20Introduction%20to%20ML/Sprint_7_Project.ipynb)
+# [Sprint 7 - Introduction to ML](https://github.com/paul-london/TripleTen-Data-Science-Projects/blob/main/Sprint%2007%20-%20Introduction%20to%20Machine%20Learning/Sprint%207%20Project%20-%20Introduction%20to%20Machine%20Learning.ipynb)
 
 ## Skills Learned in Sprint 
 - To understand basic machine learning terminology. For example, the difference between classification and regression, or the difference between a model and a learning algorithm.

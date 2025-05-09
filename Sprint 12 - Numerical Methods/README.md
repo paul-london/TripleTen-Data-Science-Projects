@@ -1,5 +1,5 @@
 
-# [Sprint 12 - Numerical Methods](https://github.com/brandon-levan/TripleTen-Data-Science-Projects/blob/main/Sprint%2012%20-%20Numerical%20Methods/Sprint_12_Project.ipynb)
+# [Sprint 12 - Numerical Methods](https://github.com/paul-london/TripleTen-Data-Science-Projects/blob/main/Sprint%2012%20-%20Numerical%20Methods/Sprint%2012%20Project%20-%20Numerical%20Methods.ipynb)
 
 ## Skills Learned in Sprint 
 - Write a gradient descent algorithm

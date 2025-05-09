@@ -1,4 +1,4 @@
-# [Sprint 15 - Computer Vision](https://github.com/brandon-levan/TripleTen-Data-Science-Projects/blob/main/Sprint%2015%20-%20Computer%20Vision/Sprint_15_Project.ipynb)
+# [Sprint 15 - Computer Vision](https://github.com/paul-london/TripleTen-Data-Science-Projects/blob/main/Sprint%2015%20-%20Computer%20Vision/Sprint%2015%20Project%20-%20Computer%20Vision.ipynb)
 
 ## Skills Learned in Sprint 
 - Learn about the tools of the Keras library

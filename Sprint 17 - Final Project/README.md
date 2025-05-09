@@ -74,5 +74,5 @@ Each file contains the primary key customer_id which is leveraged in order to do
 **The XGBClassifier predicts test values with an AUC_ROC score of 0.901 and an accuracy score of 0.861.** The XGBClassifier would be a great choice for Interconnect to implement to predict which users are most likely to churn because the predictions are accurate and fast. While XGBClassifier produces the highest AUC_ROC, there are other models that we didn't use to predict test values like tbhe LGBMClassifier and RandomForrestClassifier. These models also have high accuracy scores and AUC_ROC, but the hyperparameter tuning time was around 10 seconds whereas XGBClassifier was over a minute. If Interconnect needs faster tuning and prediction times, consider evaluating these models. However, for our use case, the XGBClassifier meets the mark with both a high accuracy and AUC_ROC scores.
 
 ## Examples of Visualizations Used in Project
-![alt text](https://github.com/brandon-levan/TripleTen-Data-Science-Projects/blob/main/Sprint%2017%20-%20Final%20Project/Assets/categorical_features.png)
-![alt text](https://github.com/brandon-levan/TripleTen-Data-Science-Projects/blob/main/Sprint%2017%20-%20Final%20Project/Assets/numerical_features.png)
+![](https://github.com/paul-london/TripleTen-Data-Science-Projects/blob/main/Sprint%2017%20-%20Final%20Project/Images/1.png)
+![](https://github.com/paul-london/TripleTen-Data-Science-Projects/blob/main/Sprint%2017%20-%20Final%20Project/Images/2.png)

@@ -20,11 +20,11 @@ I will explore, prepare, and train a model on data provided by Zafra to optimize
 ## Project Context 
 In order to start working on this process, I needed to familiarize myself with the gold extraction process. Mined ore undergoes primary processing to get the ore mixture or rougher feed, which is the raw material for flotation (also known as the rougher process). After flotation, the material is sent to two-stage purification. After the floatation and the two-stage purification steps, you are left with the final gold concentrate. The process of taking a gold ore mixture and extracting gold concentrate will be refferred to as recovery or the recovery process. 
 
-![alt text](https://github.com/brandon-levan/TripleTen-Data-Science-Projects/blob/main/Sprint%2010%20-%20Integrated%20Project%202/Assets/gold_process.jpeg)
+![](https://github.com/paul-london/TripleTen-Data-Science-Projects/blob/main/Sprint%2010%20-%20Integrated%20Project%202/Images/1.jpeg)
 
 For this project, we need to simulate the process of recovering gold from gold ore. The following formula can be used to simulate the recovery process:
 
-![alt text](https://github.com/brandon-levan/TripleTen-Data-Science-Projects/blob/main/Sprint%2010%20-%20Integrated%20Project%202/Assets/recovery.jpeg)
+![](https://github.com/paul-london/TripleTen-Data-Science-Projects/blob/main/Sprint%2010%20-%20Integrated%20Project%202/Images/2.jpeg)
 
 *__Where:__*
 
@@ -37,14 +37,14 @@ For this project, we need to simulate the process of recovering gold from gold o
 
 In this problem, we need a way to assess how well the model works - in other words - how good are the predictions the model outputs based on the training data. To do this, will need a new metric. It is called sMAPE, symmetric Mean Absolute Percentage Error. sMAPE will be the evaluation metric used in this project and it is calculated using the equation below
 
-![alt text](https://github.com/brandon-levan/TripleTen-Data-Science-Projects/blob/main/Sprint%2010%20-%20Integrated%20Project%202/Assets/smape.jpeg)
+![](https://github.com/paul-london/TripleTen-Data-Science-Projects/blob/main/Sprint%2010%20-%20Integrated%20Project%202/Images/3.jpeg)
 
 As I noted earlier, we want to create a model to maximize the amount of gold concentration output throughout the gold extraction process-**
 - **rougher concentrate recovery** (*rougher.output.recovery*)
 - **final concentrate recovery** (*final.output.recovery*) 
 Therefore, we need to predict the rougher concentrate recovery `rougher.output.recovery` and final concentrate recovery `final.output.recovery`. Using sMAPE and these predictions, we will use the **Final sMAPE** to assess how well each model performs in maximizing gold output by looking at which model produces the lowests final sMAPE
 
-![alt text](https://github.com/brandon-levan/TripleTen-Data-Science-Projects/blob/main/Sprint%2010%20-%20Integrated%20Project%202/Assets/final_smape.jpeg)
+![](https://github.com/paul-london/TripleTen-Data-Science-Projects/blob/main/Sprint%2010%20-%20Integrated%20Project%202/Images/4.jpeg)
 
 ## Steps to Complete Project
 
@@ -106,7 +106,5 @@ Possible values for [parameter_type]:
 Compared to the baseline results of the DummyRegressor model (9.73), the DecisionTreeRegressor produces a slightly better model performance in regards to Final sMAPE (9.38). Given these results, I would implement a DecisionTreeRegressor model for Zyfra to predict the amount of gold recovered from gold ore with the smallest mean average error between the true values and predict values.
 
 ## Examples of Visualizations Used in Project
-![alt text](https://github.com/brandon-levan/TripleTen-Data-Science-Projects/blob/main/Sprint%2010%20-%20Integrated%20Project%202/Assets/particle_size.png)
-![alt text](https://github.com/brandon-levan/TripleTen-Data-Science-Projects/blob/main/Sprint%2010%20-%20Integrated%20Project%202/Assets/outputs.png)
-
-
+![](https://github.com/paul-london/TripleTen-Data-Science-Projects/blob/main/Sprint%2010%20-%20Integrated%20Project%202/Images/5.png)
+![](https://github.com/paul-london/TripleTen-Data-Science-Projects/blob/main/Sprint%2010%20-%20Integrated%20Project%202/Images/6.png)

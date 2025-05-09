@@ -1,4 +1,4 @@
-# [Sprint 2 - Exploratory Data Analysis](https://github.com/brandon-levan/TripleTen-Data-Science-Projects/blob/main/Sprint%2002%20-%20Exploratory%20Data%20Analysis%20(EDA)/Sprint_2_Project.ipynb)
+# [Sprint 2 - Exploratory Data Analysis](https://github.com/paul-london/TripleTen-Data-Science-Projects/blob/main/Sprint%2002%20-%20Exploratory%20Data%20Analysis/Sprint%202%20Project%20-%20Exploratory%20Data%20Analysis.ipynb)
 
 ## Skills Learned in Sprint 
 - More advanced ways to read and process data of different sources and formats

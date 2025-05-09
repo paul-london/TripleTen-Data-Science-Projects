@@ -1,4 +1,4 @@
-# [Sprint 14 - ML for Texts](https://github.com/brandon-levan/TripleTen-Data-Science-Projects/blob/main/Sprint%2014%20-%20ML%20for%20Texts/Sprint_14_Project.ipynb)
+# [Sprint 14 - ML for Texts](https://github.com/paul-london/TripleTen-Data-Science-Projects/blob/main/Sprint%2014%20-%20Machine%20Learning%20for%20Texts/Sprint%2014%20Project%20-%20Machine%20Learning%20for%20Texts.ipynb)
 
 ## Skills Learned in Sprint 
 - Learn to calculate TF-IDF values for texts

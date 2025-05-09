@@ -1,4 +1,4 @@
-# [Sprint 10 - Integrated Project 2](https://github.com/brandon-levan/TripleTen-Data-Science-Projects/blob/main/Sprint%2010%20-%20Integrated%20Project%202/Sprint_10_Project.ipynb)
+# [Sprint 10 - Integrated Project 2](https://github.com/paul-london/TripleTen-Data-Science-Projects/blob/main/Sprint%2010%20-%20Integrated%20Project%202/Sprint%2010%20Project%20-%20Integrated%20Project%202.ipynb)
 
 ## Skills Learned in Sprint 
 - Develop models and evaluate their quality when solving supervised learning problems

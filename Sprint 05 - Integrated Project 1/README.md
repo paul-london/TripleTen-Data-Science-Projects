@@ -60,7 +60,7 @@ Recall that it's December 2016 and I'm planning a video game advertising campaig
 With these few insights, I can try to optimizing my advertising campaign for 2017 to increase sales.
 
 ## Examples of Visualizations Used in Project
-![alt text](https://github.com/brandon-levan/TripleTen-Data-Science-Projects/blob/main/Sprint%2005%20-%20Integrated%20Project%201/Assets/bars.png)
-![alt text](https://github.com/brandon-levan/TripleTen-Data-Science-Projects/blob/main/Sprint%2005%20-%20Integrated%20Project%201/Assets/critic_score_scatter.png)
-![alt text](https://github.com/brandon-levan/TripleTen-Data-Science-Projects/blob/main/Sprint%2005%20-%20Integrated%20Project%201/Assets/histograms.png)
-![alt text](https://github.com/brandon-levan/TripleTen-Data-Science-Projects/blob/main/Sprint%2005%20-%20Integrated%20Project%201/Assets/sales_by_platform.png)
+![](https://github.com/paul-london/TripleTen-Data-Science-Projects/blob/main/Sprint%2005%20-%20Integrated%20Project%201/Images/1.png)
+![](https://github.com/paul-london/TripleTen-Data-Science-Projects/blob/main/Sprint%2005%20-%20Integrated%20Project%201/Images/2.png)
+![](https://github.com/paul-london/TripleTen-Data-Science-Projects/blob/main/Sprint%2005%20-%20Integrated%20Project%201/Images/3.png)
+![](https://github.com/paul-london/TripleTen-Data-Science-Projects/blob/main/Sprint%2005%20-%20Integrated%20Project%201/Images/4.png)

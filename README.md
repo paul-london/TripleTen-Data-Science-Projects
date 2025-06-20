@@ -27,7 +27,7 @@
 - 🚀 `xgboost` — Extreme gradient boosting  
 - 🔮 `tensorflow` — Deep learning framework  
 - 🎛️ `keras` — Neural networks API  
-- 📚 `nltk` — Natural language processing  
+- 📚 `nltk` — Natural language processing (NLP) 
 - 🧠 `spacy` — Industrial-strength NLP  
 - 🎨 `plotly.express` — Interactive plotting  
 - 🌟 `altair` — Declarative statistical visualization  

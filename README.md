@@ -32,7 +32,7 @@
 - 🎨 `plotly.express` — Interactive plotting  
 - 🌟 `altair` — Declarative statistical visualization  
 
-## 📁 What Can be Found in This Repository
+## 📁 Projects in this Repository
 This repository will host all of my projects that I completed at the end of each sprint. Below, you will find a table of contents that contains a link to each project along with a brief description of the project and skills used to complete the project. Each project demonstrates my ability to apply various methods of exploratory data analysis, data visualization, and machine learning to different complex problems across the various sprints. 
 
 | Sprint Number                                                                                                                                  | Project Name                           | Project Description                                                                                                                                                                                                                                                                                                                                                                    | Libraries Used                                                                           |

@@ -10,7 +10,7 @@
 - 📊 Statistical Data Analysis  
 - 🤖 Machine Learning  
 - ⏳ Time Series Forecasting  
-- 🅰️🅱️ A/B Testing  
+- ⚖️ A/B Testing  
 - 🗣️ Natural Language Processing  
 - 👁️ Computer Vision
 

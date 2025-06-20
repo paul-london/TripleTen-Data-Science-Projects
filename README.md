@@ -14,6 +14,26 @@
 - 🗣️ Natural Language Processing  
 - 👁️ Computer Vision
 
+## 📦 Key Libraries Used
+
+| Library       | Icon | Description                         |
+|---------------|------|-----------------------------------|
+| `pandas`      | 🐼   | Data manipulation and analysis    |
+| `numpy`       | 🔢   | Numerical computing and arrays    |
+| `matplotlib`  | 📊   | Data visualization                |
+| `seaborn`     | 📉   | Statistical data visualization    |
+| `scipy`       | ⚙️    | Scientific computing              |
+| `scikit-learn`| 🤖   | Machine learning                  |
+| `lightgbm`    | 🌲   | Gradient boosting framework       |
+| `catboost`    | 🐱   | Gradient boosting with categorical support |
+| `xgboost`     | 🚀   | Extreme gradient boosting         |
+| `tensorflow`  | 🔮   | Deep learning framework           |
+| `keras`       | 🎛️   | Neural networks API               |
+| `nltk`        | 📚   | Natural language processing       |
+| `spacy`       | 🧠   | Industrial-strength NLP           |
+| `plotly.express` | 🎨 | Interactive plotting              |
+| `altair`      | 🌟   | Declarative statistical visualization |
+
 ## 📁 What Can be Found in This Repository
 This repository will host all of my projects that I completed at the end of each sprint. Below, you will find a table of contents that contains a link to each project along with a brief description of the project and skills used to complete the project. Each project demonstrates my ability to apply various methods of exploratory data analysis, data visualization, and machine learning to different complex problems across the various sprints. 
 

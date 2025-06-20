@@ -6,6 +6,16 @@
 ## What Can be Found in This Repository
 This repository will host all of my projects that I completed at the end of each sprint. Below, you will find a table of contents that contains a link to each project along with a brief description of the project and skills used to complete the project. Each project demonstrates my ability to apply various methods of exploratory data analysis, data visualization, and machine learning to different complex problems across the various sprints. 
 
+## Core Topics
+- Machine Learning
+- Data Exploration
+- Statistical Data Analysis
+- Python Programming
+- Time Series Forecasting
+- A/B Testing
+- Natural Language Processing
+- Computer Vision
+
 | Sprint Number                                                                                                                                  | Project Name                           | Project Description                                                                                                                                                                                                                                                                                                                                                                    | Libraries Used                                                                           |
 |------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [1](https://github.com/paul-london/TripleTen-Data-Science-Projects/blob/main/Sprint%2001%20-%20Working%20with%20Data%20in%20Python/Sprint%201%20Project%20-%20Working%20with%20Data%20in%20Python.ipynb)          | Working with Data in Python            | Investigate how the number of votes a movie title receives impacts its ratings.                                                                                                                                                                                                                                                                                                         | `pandas`                                                                                 |

@@ -60,8 +60,8 @@ To clone this repository to your local machine, run:
 
 ```bash
 git clone https://github.com/paul-london/bioinformatics-pipeline.git
-
 ```
+
 ## 📬 Contact
 
 If you have any questions or feedback, feel free to reach out!

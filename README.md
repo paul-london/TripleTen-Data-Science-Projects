@@ -55,6 +55,6 @@ This repository will host all of my projects that I completed at the end of each
 | 16                             | Unsupervised Learning                        | Explore and visualize clustering and anomalies using the k-means algorithm. *Note: this sprint did not have a project.*                                                                                                                                                                                                                                                                                                     | `pandas` `numpy` `matplotlib` `seaborn` `scikit-learn`               |
 | [17](https://github.com/paul-london/TripleTen-Data-Science-Projects/blob/main/Sprint%2017%20-%20Final%20Project/Sprint%2017%20Project%20-%20Final%20Project.ipynb)                             | Final Project                          | Develop a classification model to help a telecom company predict customer churn.                                                                                                                                                                                                                                                                                                        | `pandas` `numpy` `matplotlib` `sklearn` `lightgbm` `catboost` `xgboost`                  |
 
-## Contact
+## 📬 Contact
 
 If you have any questions or feedback, feel free to reach out!

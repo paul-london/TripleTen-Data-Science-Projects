@@ -54,7 +54,14 @@ This repository will host all of my projects that I completed at the end of each
 | [15](https://github.com/paul-london/TripleTen-Data-Science-Projects/blob/main/Sprint%2015%20-%20Computer%20Vision/Sprint%2015%20Project%20-%20Computer%20Vision.ipynb)                           | Computer Vision                        | Use computer vision methods to determine the age of a person from a photo to help a liquor store adhere to alcohol laws by making sure they do not sell alcohol to people underage.                                                                                                                                                                                                     | `pandas` `numpy` `matplotlib` `tensorflow` `keras`                                       |
 | 16                             | Unsupervised Learning                        | Explore and visualize clustering and anomalies using the k-means algorithm. *Note: this sprint did not have a project.*                                                                                                                                                                                                                                                                                                     | `pandas` `numpy` `matplotlib` `seaborn` `scikit-learn`               |
 | [17](https://github.com/paul-london/TripleTen-Data-Science-Projects/blob/main/Sprint%2017%20-%20Final%20Project/Sprint%2017%20Project%20-%20Final%20Project.ipynb)                             | Final Project                          | Develop a classification model to help a telecom company predict customer churn.                                                                                                                                                                                                                                                                                                        | `pandas` `numpy` `matplotlib` `sklearn` `lightgbm` `catboost` `xgboost`                  |
+## 📥 Clone This Repository
 
+To clone this repository to your local machine, run:
+
+```bash
+git clone https://github.com/paul-london/bioinformatics-pipeline.git
+
+```
 ## 📬 Contact
 
 If you have any questions or feedback, feel free to reach out!

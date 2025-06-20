@@ -1,7 +1,7 @@
 # TripleTen Data Science Projects
 
 ## ✨ What is TripleTen?
-[TripleTen](https://tripleten.com/data-science/) provides an eight-month long, project-based online Data Science course that provides rigorous course work and education in machine learning, data exploration, statistical data analysis, python programming, time series forecasting, A/B testing, natural language processing, computer vision, and more. The eight month long program is split into sprints – two- or- three-week-long periods that cover separate technical topics. Each sprint includes theory, coding exercises, and projects where students can apply their skills and create functional applications, services, and features. 
+[TripleTen](https://tripleten.com/data-science/) provides an eight-month long, project-based online Data Science course that provides rigorous course work and education in several core topics (see below). The eight month long program is split into Sprints – two- or three-week-long periods that cover separate technical topics. Each Sprint includes theory, coding exercises, and projects where students can apply their skills and create functional applications, services, and features. 
 
 ## 🚀 Core Topics
 - 🐍 Python Programming  

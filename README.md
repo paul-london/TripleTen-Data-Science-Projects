@@ -59,7 +59,7 @@ This repository will host all of my projects that I completed at the end of each
 To clone this repository to your local machine, run:
 
 ```bash
-git clone https://github.com/paul-london/bioinformatics-pipeline.git
+git clone https://github.com/paul-london/TripleTen-Data-Science-Projects.git
 ```
 
 ## 📬 Contact
